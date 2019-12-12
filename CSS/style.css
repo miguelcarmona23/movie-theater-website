@@ -1,0 +1,75 @@
+.carousel-item {
+	height: 800;
+	width: 400;
+}
+.display-4 {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+hr {
+	border: 2px solid black;
+  margin: 0;
+}
+/*.card {
+	margin: auto;
+}*/
+.nav-link{
+	float: left;
+}
+.class-img-top {
+	height: 200;
+	width: 300;
+}
+.footer{
+  color: white;
+}
+.footer a{
+  color: #bfffff;
+}
+.footer a:hover{
+  color: white;
+}
+
+.footer-bottom{
+  background: #212529;
+  padding: 2em;
+}
+.footer-top{
+  background: #2d4958;  
+}
+.footer-middle{
+   background: #212529;
+  padding-top: 2em;
+  color: white;
+}
+/**Sub Navigation**/
+.subnavigation-container{
+  background: #3d6277;
+}
+.subnavigation .nav-link{
+  color: white;
+  font-weight: bold;
+}
+.subnavigation-container{
+  text-align: center;
+}
+.subnavigation-container .navbar{
+  display: inline-block;
+  margin-bottom: -6px; /* Inline-block margin offffset HACK -Gilron */
+}
+.col-subnav a{
+  padding: 1rem 1rem;
+  color: white;
+  font-weight: bold;
+}
+.col-subnav .active{
+  border-top:5px solid orange;
+ background: white;
+  color: black;
+}
+p.text-xs-center {
+	color:white;
+}
+.card-title {
+  text-align: center;
+}
